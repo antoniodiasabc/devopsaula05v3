@@ -1,2 +1,7 @@
 # devopsaula05v3
-ac1
+Ferramentas de controle de versão:
+
+* Mercurial
+* GitHub
+* Subversion
+* CVS
